@@ -27,7 +27,6 @@ public class MaxChars2 {
 
         Scanner scanner = new Scanner(System.in);
 
-        //String str = "sample string";
         System.out.println("Input the string to evaluate: ");
         String str = scanner.nextLine();
         System.out.println("Max occurring characters is: " + getMaxOccurringChar(str));
