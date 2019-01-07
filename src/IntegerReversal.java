@@ -26,5 +26,4 @@ public class IntegerReversal {
         System.out.println("The reversed number is: " + reversedNumber);
     }
 
-
 }
